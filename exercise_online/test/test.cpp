@@ -5,7 +5,7 @@
 using namespace std;
 const ll N = 1e6 + 5;
 const ll md = 1e9;
-const long long INF = 2000000000000000000LL;
+const long long INF = 20000000000000000LL;
 int main(){
 	ios_fast();
 }
