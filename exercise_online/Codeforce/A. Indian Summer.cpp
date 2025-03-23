@@ -8,10 +8,13 @@ const ll md = 1e9;
 const long long INF = 2000000000000000000LL;
 int main(){
 	ios_fast();
-	ll t; cin >> t;
-	while(t--){
-		ll x, y; cin >> x >> y;
-		if(x*2 > y) cout << -1 << " " << -1 << endl;
-		else cout << x << " " << x*2 << endl;
+	set<pair<string,string>> se;
+	int n; cin >> n;
+	while(n--){
+		string s; cin >> s;
+		string t; cin >> t;
+		se.insert({s, t});
 	}
+	cout << se.size() << endl;
+	
 }
