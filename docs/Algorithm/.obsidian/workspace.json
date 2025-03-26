@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "f2bb825775f81b96",
+    "type": "split",
+    "children": [
+      {
+        "id": "4abdb6aa55ae1ac4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a14e3969bfe2afea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTDL/Set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04e6d795f09e7c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTDL/Set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff9273a13188f3ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CTDL/Set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c2c0f2bff562a03",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4283f95c61bf0e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ce56c70ea30af4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f15c1fb82ffc4136",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "182efedabc690d52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0348b97728d6fc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "de9af37aac7243c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c43d51011e6c3d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CTDL/Set.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "962a34c93fa79c24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CTDL/Set.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3fff899c184781af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df7cce6db318e92f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CTDL/Set.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false
+    }
+  },
+  "active": "ff9273a13188f3ca",
+  "lastOpenFiles": [
+    "CTDL/Unordered Set.md",
+    "CTDL/Set.md",
+    "CTDL/Multiset.md",
+    "Pasted image 20250326200147.png",
+    "Another/Pasted image 20250326195615.png",
+    "Another/Pasted image 20250326195608.png",
+    "Another/Pasted image 20250326195548.png",
+    "Another/Pasted image 20250326195538.png",
+    "Another/Pasted image 20250326195507.png",
+    "Another/Pasted image 20250326195436.png",
+    "Another/Pasted image 20250326195220.png",
+    "Chưa đặt tên.md",
+    "Another/Pasted image 20250326195159.png",
+    "Another/Pasted image 20250326195127.png",
+    "Another",
+    "Welcome.md",
+    "CTDL",
+    "Thuật toán"
+  ]
+}
